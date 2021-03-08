@@ -1,0 +1,2 @@
+# Wifi_password_detection
+When you need to retrieve your wireless password, and you have a different options to find it manually in deep settings of your computer. Or you can reset your router and start from the beginning to entering a long information. If you lost the password to your Wi-Fi network, you would be able to find it by using this concept. The procedure will take a short period of time. you will immediately receive all the saved passwords to your wireless network (which you have entered in the past). 
